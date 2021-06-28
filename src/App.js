@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Display from './components/Display';
 
 export default function App(props) {
   const [items, setItems] = useState([
