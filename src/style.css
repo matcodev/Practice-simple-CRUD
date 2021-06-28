@@ -1,0 +1,21 @@
+h1, p {
+  font-family: Lato;
+}
+.red{
+  background-color: red;
+}
+
+.green{
+  background-color: green;
+}
+
+.blue{
+  background-color: blue;
+}
+
+section{
+  width: 100%;
+  height: 600px;
+  margin-top: 5px;
+  background-color: black;
+}
